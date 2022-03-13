@@ -1,6 +1,11 @@
 # ADVICE GENERATOR APP
 
+**Languages ​​used**
+* HTML
+* CSS 
+* JAVASCRIPT
 Desing Desktop
+
 
 ![img](design/desktop-design.jpg)
 
