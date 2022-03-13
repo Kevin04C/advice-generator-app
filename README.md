@@ -1,7 +1,5 @@
 # ADVICE GENERATOR APP
 
----
-
 Desing Desktop
 
 ![img](design/desktop-design.jpg)
